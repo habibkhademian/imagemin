@@ -4,6 +4,7 @@
 
 ## Install
 
+
 ```
 $ npm install imagemin
 ```
